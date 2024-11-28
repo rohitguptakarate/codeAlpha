@@ -1,0 +1,49 @@
+.MainSectionContener3{
+    height: 700px;
+    background-color: #f9fbfc;
+    /* background-color: red; */
+}
+.skills{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+.my-skills{
+    text-align: center;
+    padding-top: 30px;
+}
+.my-skills p{
+    text-align: center;
+    padding-top: 20px;
+}
+.html-css-js,.java-c-py{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 50px;
+}
+.html,.css,.js,.java ,.c,.py{
+    height: 180px;
+    width: 150px;
+    /* background-color: bisque; */
+    background-color: #e2dbdb;
+    background-color: #F5F5F5;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    
+    
+    
+}
+.html img ,.css img, .js img{
+    padding: 25px ;
+    padding-top: 35px;
+}
+.java img{
+    padding: 25px ;
+    padding-top: 35px;
+}
+.c img,.py img{
+    padding: 25px ;
+    padding-top: 35px;
+
+}
+

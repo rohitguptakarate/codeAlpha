@@ -1,0 +1,22 @@
+.MainSectionContener{
+    height: 200px;
+    background-color:rgb(191, 216, 208);
+    background-color: rgb(240, 240, 235);
+    background-color: cornsilk;
+    background-color: whitesmoke;
+    /* background-color: #f4f2ee; */
+}
+.itemimage{
+    display: flex;
+    justify-content: space-around;
+}
+.projactcomplete ,.happyclients ,.cup ,.exprerienced{
+    display: flex;
+}
+.projactcount1,.clientscount2,.cupcount2,.yearscount{
+    padding-top: 70px;
+}
+    
+.textsize{
+    font-size: 40px;
+}

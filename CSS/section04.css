@@ -1,0 +1,76 @@
+
+.MainSectonConterner04{
+    height: 900px;
+    background-color: #f3f7f7;
+    font-family: "Lato", sans-serif;
+}
+ .MainSectonConterner04{
+    text-align: center;
+    padding-top: 100px;
+}
+.awesome-items{
+    padding-top: 10px;
+}
+.awesome-items p{
+    padding-top: 20px;
+}
+.first-items-div ,.second-items-div{
+    display: flex;
+    justify-content: center;
+    /* justify-content: last baseline; */
+    gap: 80px;
+    padding-top: 35px;
+}
+.web,.webApplication,.WebDevlopment,.landingpage,.SEO{
+    height: 270px;
+    width: 180px;
+    background-color: red;
+    background-color: #F5F5F5;
+    padding-top: 10px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 1.15) !important;
+}
+
+.All-servies h3{
+    
+    padding-top: 10px;
+}
+.All-servies p{
+    font-size: 15px;
+    padding-top: 15px;
+    text-align: left;
+    padding-left: 20px;
+    
+}
+.All-servies svg{
+    margin-top: -30px;
+}
+
+.web,.webApplication,.WebDevlopment,.landingpage,.SEO :hover{
+    cursor: pointer;
+   
+}
+.web:hover{
+    background-color: #ffa500;
+    color: #F5F5F5;
+}
+.webApplication:hover{
+    background-color: #ffa500;
+    color: #F5F5F5;
+
+}
+.landingpage:hover{
+    background-color: #ffa500;
+    color: #F5F5F5;
+
+}
+.SEO:hover{
+    background-color: #ffa500;
+    color: #F5F5F5;
+
+}
+.WebDevlopment:hover{
+    background-color: #ffa500;
+    color: #F5F5F5;
+    
+
+}

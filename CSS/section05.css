@@ -1,0 +1,38 @@
+.MainSectionContener05{
+    height: 230px;
+    background-color: lightpink;
+    font-family: "Lato", sans-serif;
+    
+    
+}
+.mainHeading{
+    padding-left: 160px;
+    padding-top: 40px;
+}
+.mainHeading h3{
+    font-size: 30px;
+    
+}
+#pag{
+    padding-left: 160px;
+    width: 60vw;
+    padding-top: 10px;
+    
+}
+.button{
+    padding-left: 160px;
+    padding-top: 10px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    /* font-size: 15px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+#button03:hover{
+    background-color: rgb(236, 153, 165);
+    color: white;
+    border-radius: 10px;
+}
+

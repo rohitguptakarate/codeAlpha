@@ -1,0 +1,159 @@
+
+
+.MainSectionContener07{
+    height: 900px;
+    /* background-color: lightcoral; */
+    background-color: #f9fbfc;
+    font-family: "Poppins", sans-serif;
+}
+.MainSectionContener07{
+    text-align: center;
+    padding-top: 60px;
+}
+.contact{
+    font-size: 10px;
+}
+.Get{
+    padding-top: 10px;
+   
+}
+.Get p{
+    padding-top: 10px;
+    color: rgb(121, 115, 115);
+}
+.Get h1{
+    font-size: 40px;
+    text-decoration: underline 2px solid goldenrod ;
+}
+.contact_form{
+    display: flex;
+    gap: 10px;
+}
+.contact_form{
+    height: 650px;
+    width: 80vw;
+    background-color: aqua;
+    background-color: #f9fbfc;
+    margin-left: 10vw;
+    margin-top: 15px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2) !important;
+}
+.left_contener{
+    width: 40vw;
+    background-image: linear-gradient( to right, red, yellow);
+    color: white;
+    padding-top: 90px;
+}
+
+
+.left_contener h1{
+    font-size: 50px;
+    text-align: left;
+    padding-left: 90px;
+}
+.left_contener p{
+    padding-top: 30px;
+    text-align: left;
+    padding-left: 90px;
+}
+.left_contener h3{
+    padding-top: 20px;
+    text-align: left;
+    padding-left: 90px;
+    font-size: 25px;
+}
+.trick{
+    padding-top: 20px;
+    text-align: left;
+    padding-left: 90px;
+    
+}
+
+/* Form Css here */
+.right_contener h1{
+    padding-top: 80px;
+    margin-right: 162px;
+     font-size: 29px;
+     color: rgb(246, 196, 71) ;
+     color: #ffcf00;
+}
+.formRightSide{
+    padding-left: 75px;
+   padding-top: 56px;
+  
+}
+    
+   
+.fistAndLast_Name_Contener{
+    display: flex;
+    gap: 30px;
+   
+}
+.firstname input{
+    width: 200px;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 6px;
+    border-style: inset;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.02) !important;
+    
+}
+.lastName input{
+    width: 200px;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 6px;
+    border-style: inset;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.02) !important;
+    
+}
+.email02{
+    margin-left: -10px;
+    padding-top: 20px;
+   
+}
+.email02 input{
+    width: 450px;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 6px;
+    border-style: inset;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.02) !important;
+
+}
+.message{
+    margin-left: -10px
+    
+    
+    
+}
+.message textarea{
+    width: 450px;
+    height: 210px;
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-top: 15px;
+    border-radius: 6px;
+    border-style: inset;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.02) !important;
+}
+.submitButton{
+    margin-top: 15px;
+
+}
+.submitButton button{
+    width: 460px;
+    border-radius: 18px;
+    /* border-style: inset; */
+    border-style: ridge;
+    margin-right: 10px;
+    background-image: linear-gradient( to right, orange, yellow);
+}
+
+
+
+
+
+
+
+
